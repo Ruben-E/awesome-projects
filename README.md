@@ -23,6 +23,7 @@
 * https://github.com/Freeboard/freeboard
 * https://github.com/thingsboard/thingsboard
 * https://github.com/mysensors/MySensors
+* https://github.com/kaaproject/kaa
 
 ## Data
 * https://github.com/apache/spark
