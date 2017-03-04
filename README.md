@@ -1,4 +1,4 @@
-# Projects to keep an eye on
+# Awesome Github projects
 
 ## Databases
 * https://github.com/rethinkdb/rethinkdb (note: might be dead)
