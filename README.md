@@ -17,3 +17,17 @@
 * https://github.com/rancher/rancher
 * https://github.com/rancher/os
 * https://github.com/docker/docker
+
+## Internet of Things
+* https://github.com/home-assistant/home-assistant
+* https://github.com/Freeboard/freeboard
+* https://github.com/thingsboard/thingsboard
+* https://github.com/mysensors/MySensors
+
+## Data
+* https://github.com/apache/spark
+* https://github.com/apache/flink
+
+## Data visualisation
+* https://github.com/grafana/grafana
+* https://github.com/influxdata/chronograf
