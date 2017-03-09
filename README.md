@@ -13,6 +13,7 @@
 * [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB)
 * [Dgraph](https://github.com/dgraph-io/dgraph)
 * [Crate](https://github.com/crate/crate)
+* [Scylla](https://github.com/scylladb/scylla)
 
 ### Infrastructure
 * https://github.com/kubernetes/kubernetes
