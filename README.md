@@ -45,3 +45,4 @@
 * https://github.com/buunguyen/octotree
 * https://github.com/sindresorhus/refined-github
 * https://github.com/deepstreamIO/deepstream.io
+* [Kaggle](https://www.kaggle.com/)
