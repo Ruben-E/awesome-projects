@@ -11,7 +11,7 @@
 * [OrientDB](https://github.com/orientechnologies/orientdb)
 * [Tinkerpop](https://github.com/apache/tinkerpop)
 * [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB)
-* [dGraph](https://github.com/dgraph-io/dgraph)
+* [Dgraph](https://github.com/dgraph-io/dgraph)
 * [Crate](https://github.com/crate/crate)
 
 ## Infrastructure
