@@ -1,6 +1,5 @@
 # Awesome Github projects
 
-## Projects
 ### Databases
 * [RethinkDB](https://github.com/rethinkdb/rethinkdb) (⚠️ might be dead)
 * [Cayley](https://github.com/cayleygraph/cayley)
