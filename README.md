@@ -1,19 +1,19 @@
 # Awesome Github projects
 
 ### Databases
-* [RethinkDB](https://github.com/rethinkdb/rethinkdb) (⚠️ might be dead)
-* [Cayley](https://github.com/cayleygraph/cayley)
-* [InfluxDB](https://github.com/influxdata/influxdb)
-* [Cockroach](https://github.com/cockroachdb/cockroach)
-* [Prometheus](https://github.com/prometheus/prometheus)
-* [Gun](https://github.com/amark/gun)
-* [ArangoDB](https://github.com/arangodb/arangodb)
-* [OrientDB](https://github.com/orientechnologies/orientdb)
-* [Tinkerpop](https://github.com/apache/tinkerpop)
-* [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB)
-* [Dgraph](https://github.com/dgraph-io/dgraph)
-* [Crate](https://github.com/crate/crate)
-* [Scylla](https://github.com/scylladb/scylla)
+* [RethinkDB](https://github.com/rethinkdb/rethinkdb): The open-source database for the realtime web (⚠️ might be dead)
+* [Cayley](https://github.com/cayleygraph/cayley): An open-source graph database
+* [InfluxDB](https://github.com/influxdata/influxdb): Scalable datastore for metrics, events, and real-time analytics 
+* [Cockroach](https://github.com/cockroachdb/cockroach): CockroachDB - the scalable, survivable, strongly-consistent SQL database 
+* [Prometheus](https://github.com/prometheus/prometheus): The Prometheus monitoring system and time series database
+* [Gun](https://github.com/amark/gun): A realtime, decentralized, offline-first, graph database engine
+* [ArangoDB](https://github.com/arangodb/arangodb): ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions
+* [OrientDB](https://github.com/orientechnologies/orientdb): OrientDB is the first Multi-Model DBMS with Document & Graph engine. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing, Reactive Queries and has a small memory footprint. OrientDB is licensed with Apache 2 license and the development is driven by OrientDB LTD and a worldwide Open Source community
+* [Tinkerpop](https://github.com/apache/tinkerpop): Mirror of Apache TinkerPop 
+* [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB): Event Sourcing Database Engine 
+* [Dgraph](https://github.com/dgraph-io/dgraph): Graph database for production environment
+* [Crate](https://github.com/crate/crate): CrateDB: The fast, scalable, easy to use SQL database with native full text search
+* [Scylla](https://github.com/scylladb/scylla): NoSQL data store using the seastar framework, compatible with Apache Cassandra
 * [TiDB](https://github.com/pingcap/tidb): TiDB is a distributed NewSQL database compatible with MySQL protocol
 
 ### Infrastructure
