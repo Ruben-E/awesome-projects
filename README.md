@@ -1,7 +1,7 @@
 # Awesome Github projects
 
 ## Databases
-* [RethinkDB](https://github.com/rethinkdb/rethinkdb) (note: might be dead)
+* [RethinkDB](https://github.com/rethinkdb/rethinkdb) (⚠️ might be dead)
 * [Cayley](https://github.com/cayleygraph/cayley)
 * [InfluxDB](https://github.com/influxdata/influxdb)
 * [Cockroach](https://github.com/cockroachdb/cockroach)
