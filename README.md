@@ -1,18 +1,18 @@
 # Awesome Github projects
 
 ## Databases
-* https://github.com/rethinkdb/rethinkdb (note: might be dead)
-* https://github.com/cayleygraph/cayley
-* https://github.com/influxdata/influxdb
-* https://github.com/cockroachdb/cockroach
-* https://github.com/prometheus/prometheus
-* https://github.com/amark/gun
-* https://github.com/arangodb/arangodb
-* https://github.com/orientechnologies/orientdb
-* https://github.com/apache/tinkerpop
-* https://github.com/PumpkinDB/PumpkinDB
-* https://github.com/dgraph-io/dgraph
-* https://github.com/crate/crate
+* [RethinkDB](https://github.com/rethinkdb/rethinkdb) (note: might be dead)
+* [Cayley](https://github.com/cayleygraph/cayley)
+* [InfluxDB](https://github.com/influxdata/influxdb)
+* [Cockroach](https://github.com/cockroachdb/cockroach)
+* [Prometheus](https://github.com/prometheus/prometheus)
+* [Gun](https://github.com/amark/gun)
+* [ArangoDB](https://github.com/arangodb/arangodb)
+* [OrientDB](https://github.com/orientechnologies/orientdb)
+* [Tinkerpop](https://github.com/apache/tinkerpop)
+* [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB)
+* [dGraph](https://github.com/dgraph-io/dgraph)
+* [Crate](https://github.com/crate/crate)
 
 ## Infrastructure
 * https://github.com/kubernetes/kubernetes
@@ -37,6 +37,9 @@
 ## Data visualisation
 * https://github.com/grafana/grafana
 * https://github.com/influxdata/chronograf
+
+## Oh-My-Zsh
+* https://github.com/sindresorhus/pure
 
 ## Others
 * https://github.com/buunguyen/octotree
