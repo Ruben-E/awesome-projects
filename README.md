@@ -14,6 +14,7 @@
 * [Dgraph](https://github.com/dgraph-io/dgraph)
 * [Crate](https://github.com/crate/crate)
 * [Scylla](https://github.com/scylladb/scylla)
+* [TiDB](https://github.com/pingcap/tidb)
 
 ### Infrastructure
 * [Kubernetes](https://github.com/kubernetes/kubernetes)
