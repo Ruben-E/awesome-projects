@@ -17,11 +17,11 @@
 * [TiDB](https://github.com/pingcap/tidb): TiDB is a distributed NewSQL database compatible with MySQL protocol
 
 ### Infrastructure
-* [Kubernetes](https://github.com/kubernetes/kubernetes)
-* [Deis Workflow](https://github.com/deis/workflow)
-* [Rancher](https://github.com/rancher/rancher)
-* [RancherOS](https://github.com/rancher/os)
-* [Docker](https://github.com/docker/docker)
+* [Kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management 
+* [Deis Workflow](https://github.com/deis/workflow): The open source PaaS for Kubernetes
+* [Rancher](https://github.com/rancher/rancher): Platform for operating Docker in production 
+* [RancherOS](https://github.com/rancher/os): Tiny Linux distro that runs the entire OS as Docker containers 
+* [Docker](https://github.com/docker/docker): Docker - the open-source application container engine
 
 ### Internet of Things
 * [Home assistant](https://github.com/home-assistant/home-assistant)
