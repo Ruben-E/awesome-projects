@@ -11,6 +11,8 @@
 * https://github.com/orientechnologies/orientdb
 * https://github.com/apache/tinkerpop
 * https://github.com/PumpkinDB/PumpkinDB
+* https://github.com/dgraph-io/dgraph
+* https://github.com/crate/crate
 
 ## Infrastructure
 * https://github.com/kubernetes/kubernetes
@@ -25,6 +27,8 @@
 * https://github.com/thingsboard/thingsboard
 * https://github.com/mysensors/MySensors
 * https://github.com/kaaproject/kaa
+* https://github.com/openthread/openthread
+* https://github.com/lelylan/lelylan
 
 ## Data
 * https://github.com/apache/spark
