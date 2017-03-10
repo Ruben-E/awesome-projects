@@ -47,6 +47,7 @@
 * [Octotree](https://github.com/buunguyen/octotree)
 * [Refined Github](https://github.com/sindresorhus/refined-github)
 * [Deepstream](https://github.com/deepstreamIO/deepstream.io)
+* [Franc](https://github.com/wooorm/franc)
 * [Kaggle](https://www.kaggle.com/) (⚠️ non github)
 
 ## Contribute
