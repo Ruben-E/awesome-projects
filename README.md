@@ -1,5 +1,15 @@
 # Awesome Github projects
 
+### Table of contents
+1. [Databases](#databases)
+2. [Intrastructure](#infrastructure)
+3. [Internet of things](#internet-of-things)
+3. [Languages](#languages)
+3. [Data](#data)
+3. [Data visualisation](#data-visualisation)
+3. [Oh-My-Zsh](#oh-my-zsh)
+3. [Others](#others)
+
 ### Databases
 * [RethinkDB](https://github.com/rethinkdb/rethinkdb): The open-source database for the realtime web (⚠️ might be dead)
 * [Cayley](https://github.com/cayleygraph/cayley): An open-source graph database
