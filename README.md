@@ -33,6 +33,10 @@
 * [Openthread](https://github.com/openthread/openthread)
 * [Lelylan](https://github.com/lelylan/lelylan)
 
+### Languages
+* [Rust](https://github.com/rust-lang/rust): A safe, concurrent, practical language
+* [Go](https://github.com/golang/go): The Go programming language 
+
 ### Data
 * [Spark](https://github.com/apache/spark)
 * [Flink](https://github.com/apache/flink)
