@@ -26,6 +26,7 @@
 * [Scylla](https://github.com/scylladb/scylla): NoSQL data store using the seastar framework, compatible with Apache Cassandra
 * [TiDB](https://github.com/pingcap/tidb): TiDB is a distributed NewSQL database compatible with MySQL protocol
 * [Noms](https://github.com/attic-labs/noms): The versioned, forkable, syncable database
+* [BoltDB](https://github.com/boltdb/bolt): An embedded key/value database for Go
 
 ### Infrastructure
 * [Kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management 
