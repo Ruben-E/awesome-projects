@@ -38,6 +38,7 @@
 * [Traefik](https://github.com/containous/traefik): Træfɪk, a modern reverse proxy
 * [Flocker](https://github.com/ClusterHQ/flocker): Container data volume manager for your Dockerized application
 * [Opentracing](https://github.com/opentracing/opentracing-java): OpenTracing API for Java
+* [Serverless](https://github.com/serverless/serverless): Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
 
 ### Internet of Things
 * [Home assistant](https://github.com/home-assistant/home-assistant)
