@@ -39,6 +39,7 @@
 * [Flocker](https://github.com/ClusterHQ/flocker): Container data volume manager for your Dockerized application
 * [Opentracing](https://github.com/opentracing/opentracing-java): OpenTracing API for Java
 * [Serverless](https://github.com/serverless/serverless): Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more!
+* [Spinnaker](https://github.com/spinnaker/spinnaker): Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 
 ### Internet of Things
 * [Home assistant](https://github.com/home-assistant/home-assistant)
