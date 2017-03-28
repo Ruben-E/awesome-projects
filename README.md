@@ -37,6 +37,7 @@
 * [Ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics
 * [Traefik](https://github.com/containous/traefik): Træfɪk, a modern reverse proxy
 * [Flocker](https://github.com/ClusterHQ/flocker): Container data volume manager for your Dockerized application
+* [Opentracing](https://github.com/opentracing/opentracing-java): OpenTracing API for Java
 
 ### Internet of Things
 * [Home assistant](https://github.com/home-assistant/home-assistant)
