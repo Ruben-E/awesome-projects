@@ -73,6 +73,7 @@
 * [Franc](https://github.com/wooorm/franc)
 * [Kaggle](https://www.kaggle.com/) (⚠️ non github)
 * [Hangfire](https://github.com/HangfireIO/Hangfire): An easy way to perform background processing in your .NET and .NET Core applications
+* [Hypriot](https://blog.hypriot.com/)
 
 ## Contribute
 Please fork and add your awesomeness to this list :)
