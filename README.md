@@ -28,6 +28,7 @@
 * [Noms](https://github.com/attic-labs/noms): The versioned, forkable, syncable database
 * [BoltDB](https://github.com/boltdb/bolt): An embedded key/value database for Go
 * [TimescaleDB](https://github.com/timescale/timescaledb): An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension
+* [CockroachDB](https://github.com/cockroachdb/cockroach): CockroachDB - the scalable, survivable, strongly-consistent SQL database
 
 ### Infrastructure
 * [Kubernetes](https://github.com/kubernetes/kubernetes): Production-Grade Container Scheduling and Management 
