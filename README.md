@@ -4,11 +4,12 @@
 1. [Databases](#databases)
 2. [Intrastructure](#infrastructure)
 3. [Internet of things](#internet-of-things)
-4. [Languages](#languages)
-5. [Data](#data)
-6. [Data visualisation](#data-visualisation)
-7. [Oh-My-Zsh](#oh-my-zsh)
-8. [Others](#others)
+4. [Productivity](#productivity)
+5. [Languages](#languages)
+6. [Data](#data)
+7. [Data visualisation](#data-visualisation)
+8. [Oh-My-Zsh](#oh-my-zsh)
+9. [Others](#others)
 
 ### Databases
 * [RethinkDB](https://github.com/rethinkdb/rethinkdb): The open-source database for the realtime web (⚠️ might be dead)
@@ -51,6 +52,9 @@
 * [Kaa](https://github.com/kaaproject/kaa)
 * [Openthread](https://github.com/openthread/openthread)
 * [Lelylan](https://github.com/lelylan/lelylan)
+
+### Productivity
+* [Insomnia](https://github.com/getinsomnia/insomnia): The most intuitive cross-platform REST API Client :sleeping:
 
 ### Languages
 * [Rust](https://github.com/rust-lang/rust): A safe, concurrent, practical language
